@@ -478,7 +478,7 @@ This project is part of the [SecureByte](https://github.com/securebyte-consultin
 
 ## 🔗 Related Projects
 
-- **Main Platform:** [securebyte](https://github.com/securebyte-consulting/securebyte) (private)
+- **Main Platform:** [securebyte](private)
 - **CLI Tool:** [securebyte-cli](https://github.com/securebyte-consulting/securebyte-cli)
 - **Documentation:** [securebyte-docs](https://github.com/securebyte-consulting/securebyte-docs)
 - **Frameworks:** [compliance-frameworks](https://github.com/securebyte-consulting/compliance-frameworks)
@@ -487,9 +487,9 @@ This project is part of the [SecureByte](https://github.com/securebyte-consultin
 
 Questions? Want to discuss an integration idea?
 
-- **Email:** hello@securebyte.co.za
-- **Twitter:** [@securebyte](https://twitter.com/securebyte)
-- **LinkedIn:** [SecureByte Consulting](https://linkedin.com/company/securebyte-consulting)
+- **Email:** securebyte.consulting@gmail.com
+- **Twitter:** [coming soon]()
+- **LinkedIn:** [coming soon]()
 - **Discussions:** [GitHub Discussions](https://github.com/securebyte-consulting/securebyte-integrations/discussions)
 
 ## 📄 License
@@ -582,4 +582,3 @@ Need inspiration? Here are some integration ideas:
 **Star this repository** to be notified when we launch! ⭐
 
 **Target Release:** Q4 2026
-```
